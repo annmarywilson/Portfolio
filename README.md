@@ -26,7 +26,7 @@ You can find my data science portfolio below. Feel free to reach out for a chat 
 <!--9. [Insights from Data Science Events] -->
 ___
 <a name="exploratory-data-analysis"></a>
-## Data Extraction and Web Scraping :toolbox:
+## Exploratory Data Analysis 👁️
 1. [Designing a promo strategy for a drinks company](https://github.com/annmarywilson/AnalyticsPortfolio/blob/main/Designing%20a%20promo%20strategy%20for%20a%20drinks%20company.ipynb)
 2. [Services cross validation](https://github.com/annmarywilson/Analytics-Portfolio/blob/main/Basket%20Analysis.ipynb)
 
