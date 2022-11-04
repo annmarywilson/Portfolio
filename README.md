@@ -1,10 +1,10 @@
 ## 👋 Hello, I'm Ann Mary Wilson
 
-- Thanks for popping by! I'm an analytics professional with expertise in technical data science consulting and MLOps.
-- A keen learner and driven doer 
-- You can find my data science portfolio below, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to reach out for a chat on topics common to both of us!
+Thanks for popping by! I'm an analytics professional with expertise in technical data science consulting and MLOps.
+A keen learner and up for solving meaningful business challenges using data science.
+You can find my data science portfolio below. Feel free to reach out for a chat on topics common to both of us!
 
-- :woman_mechanic: **Currently working on a prediction model. If you're keen to join me in contributing, let's connect!**
+:woman_mechanic: **Currently working on a prediction model. 
 
 <h3> How to reach me </h3>
 <div>
