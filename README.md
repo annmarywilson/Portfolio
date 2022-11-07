@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Ann Mary Wilson
+## 👋 Hello,
 
 Thanks for popping by! I'm an analytics professional with expertise in technical data science consulting and MLOps.
 A keen learner and up for solving meaningful business challenges using data science.
@@ -27,7 +27,7 @@ You can find my data science portfolio below. Feel free to reach out for a chat 
 ___
 <a name="exploratory-data-analysis"></a>
 ## Exploratory Data Analysis 👁️
-1. [Designing a promo strategy for a drinks company](https://github.com/annmarywilson/AnalyticsPortfolio/blob/main/Designing%20a%20promo%20strategy%20for%20a%20drinks%20company.ipynb)
+1. [Designing a promo strategy for a drinks company](https://github.com/annmarywilson/Analytics-Portfolio/blob/main/Designing%20a%20promo%20strategy%20for%20a%20drinks%20company.ipynb)
 2. [Services cross validation](https://github.com/annmarywilson/Analytics-Portfolio/blob/main/Basket%20Analysis.ipynb)
 
  <a name="data-science-codebook"></a>
